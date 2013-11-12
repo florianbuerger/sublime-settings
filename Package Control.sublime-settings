@@ -1,14 +1,18 @@
 {
 	"installed_packages":
 	[
+		"Appealr",
 		"ChangeQuotes",
 		"Dotfiles Syntax Highlighting",
 		"EncodingHelper",
 		"JSONLint",
 		"Origami",
 		"Package Control",
+		"Sass",
 		"Smart Match",
-		"SmartMarkdown",
-		"Theme - Soda"
+		"SideBarEnhancements",
+		"Theme - Nil",
+		"Theme - Soda",
+		"View In Browser"
 	]
 }
