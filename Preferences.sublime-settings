@@ -2,49 +2,39 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Appealr/appealr-color-scheme.tmTheme",
 	"draw_indent_lines": true,
-	"draw_white_space": "selection",
 	"file_exclude_patterns":
 	[
 		".DS_Store",
 		"*.lib",
 		"*.log"
-	],
+	],	
 	"ensure_newline_at_eof_on_save": true,
-	"folder_exclude_patterns":
-	[
-		".git",
-		".bundle",
-		".sass-cache",
-		".svn",
-		".hg"
-	],
-	"font_face": "Source Code Pro",
-	"font_size": 12.0,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
-	"match_brackets": true,
-	"match_brackets_angle": true,
-	"match_brackets_braces": true,
-	"match_brackets_content": true,
-	"match_brackets_square": true,
-	"open_files_in_new_window": false,
-	"remember_open_files": true,
-	"remember_open_folders": true,
-	"scroll_past_end": true,
-	"show_full_path": true,
+  "folder_exclude_patterns":
+  [
+  	".git",
+  	".bundle",
+  	".sass-cache",
+  	".svn",
+  	".hg"
+  ],
+  "font_face": "Source Code Pro",
+  "font_size": 14.0,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
+          "Vintage"
+  ],
+	"draw_centered": true,
+	"wrap_width": 80,
+	"word_wrap": true,
+	"theme": "Spacegray.sublime-theme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
 	"tab_size": 2,
-	"theme": "Nil.sublime-theme",
+	"soft_tabs": false,
+	"draw_white_space": "selection",
 	"use_simple_full_screen": true,
 	"wide_caret": true,
-	"word_wrap": true,
-	"translate_tabs_to_spaces": true
 	"trim_trailing_white_space_on_save": true
 }
